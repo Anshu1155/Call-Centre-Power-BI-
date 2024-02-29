@@ -1,2 +1,2 @@
-# PRODIGY_DS_01
-Prodigy Data Science Internship- Task-01
+Created a histogram to visualize the distribution of a categorical variable using Python.
+Dataset used- World Bank
