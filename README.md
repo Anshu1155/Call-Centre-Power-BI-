@@ -1,2 +1,3 @@
-Created a Bar chart to visualize the distribution of a categorical variable using Python.
-Dataset used- World Bank
+Created a dashboard to understand trends- Visualize customer and Agent behaviour
+KPI- Speed of answer, Length of call, Overall customer satisfaction
+Dataset used-Forage/Pwc Switzerland's client call center data
